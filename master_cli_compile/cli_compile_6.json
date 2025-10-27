@@ -523,7 +523,7 @@
                     },
 {"name": "libraries/Matter/examples/MatterOnOffPlugin",
                     "sizes": [{
-                            "flash_bytes": 1652790,
+                            "flash_bytes": 1652798,
                             "flash_percentage": 52,
                             "ram_bytes": 92432,
                             "ram_percentage": 28

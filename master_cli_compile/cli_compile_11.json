@@ -507,7 +507,7 @@
                     },
 {"name": "libraries/WiFi/examples/SimpleWiFiServer",
                     "sizes": [{
-                            "flash_bytes": 856254,
+                            "flash_bytes": 856262,
                             "flash_percentage": 65,
                             "ram_bytes": 40008,
                             "ram_percentage": 12
